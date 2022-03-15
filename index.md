@@ -2,20 +2,27 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# Karotkih Aliaksei
 
 <br>
 
-{% include 02-image.md %}
+![my pic](https://www.popsci.com/uploads/2021/08/05/pexels-skyler-ewing-7830065-scaled.jpg?auto=webp)
 
 <br>
 
-{% include 03-links.md %}
+[Google Search](https://www.google.com/)
 
 <br>
 
-{% include 04-lists.md %}
+* 1
+* 2
+* 3
+* 4
+1. *
+2. **
+3. ***
 
 <br>
 
-{% include 05-emphasis.md %}
+*Good practics*
+** Meat and butter**
