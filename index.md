@@ -2,13 +2,13 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# Karotkikh Aliaksei
 
 <br>
 
-{% include 02-image.md %}
+![Duck Duck](https://www.funtastik.by/upload/iblock/9c6/9c653df6440b9f5c8476b708f574d796.jpg)
 
 <br>
 
-{% include 03-links.md %}
+[GitHUb](https://github.com/skribl87)
 
