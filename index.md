@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Karotkih Aliaksei
 
 <br>
@@ -10,7 +6,8 @@ layout: default
 
 <br>
 
-[Google Search](https://www.google.com/)
+[GitHUb](https://github.com/skribl87)
+
 
 <br>
 
